@@ -82,10 +82,10 @@ Develop a predictive model to assess the creditworthiness of home loan applicant
 ## 📊 Visuals
 
 ### Gain Chart
-![Gain Chart](gain_chart.png)
+![Gain Chart](Gain.png)
 
 ### Lift Chart
-![Lift Chart](lift_chart.png)
+![Lift Chart](Lift.png)
 
 ---
 
